@@ -39,7 +39,7 @@ msgstr ""
 #: src/seedsigner/gui/toast.py
 msgid ""
 "You can remove\n"
-"the SD card now"
+"the SD card now. Razvan."
 msgstr ""
 
 #: src/seedsigner/gui/toast.py
